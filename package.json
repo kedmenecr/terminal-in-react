@@ -21,7 +21,7 @@
     "whatkey": "^2.0.1"
   },
   "devDependencies": {
-    "@storybook/react": "^3.2.3",
+    "@storybook/react": "^5.1.11",
     "autoprefixer": "9.7.0",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.25.0",
