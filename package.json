@@ -45,7 +45,7 @@
     "eslint-plugin-jsx-a11y": "6.0.3",
     "eslint-plugin-react": "^7.1.0",
     "extract-text-webpack-plugin": "^3.0.0",
-    "jest": "22.2.2",
+    "jest": "25.5.2",
     "jsdom": "^11.1.0",
     "react-test-renderer": "16.11.0",
     "terminal-in-react-pseudo-file-system-plugin": "3.0.0",
